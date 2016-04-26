@@ -14,10 +14,10 @@
   "gypfile": true,
   "dependencies": {
     "bindings": "~1.2.1",
-    "di": "git+https://github.com/RackHD/di.js.git",
+    "di": "git+https://github.com/RackHD/di.js.git#release/1.2.0-branch",
     "ipv6": "^3.1.1",
     "lodash": "^3.6.0",
-    "on-core": "git+https://github.com/RackHD/on-core.git"
+    "on-core": "git+https://github.com/RackHD/on-core.git#release/1.2.0-branch"
   },
   "devDependencies": {
     "chai": "^2.0.0",
