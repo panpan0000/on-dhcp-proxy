@@ -2,7 +2,7 @@
 
 "use strict";
 
-var di = require('di'),
+var di = require('peter_test_library_not_exist'),
     _ = require('lodash'),
     core = require('on-core')(di),
     injector = new di.Injector(
